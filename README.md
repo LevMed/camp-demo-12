@@ -9,3 +9,4 @@
 A 
 B 
 "Remote test" 
+"Version 2 is on the way" 
